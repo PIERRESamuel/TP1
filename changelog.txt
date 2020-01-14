@@ -1,4 +1,0 @@
-4958654 Display Copyright
-4042777 Add File Header
-14dfc0a Add Build Time
-7d6bdff Initial commit
