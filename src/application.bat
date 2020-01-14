@@ -1,5 +1,7 @@
 ###application.bat - 201x - PIERRE###
-echo "version 1.1"
-echo "Copyright Company - 201x"
-echo "Build : 13:47"
+echo "version 2"
+build_hour = "15H57"
+
+echo "Build${build_hour}"
+echo "version${version}"
 
